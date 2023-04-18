@@ -1,6 +1,6 @@
 ### Olá, me chamo Vitor 👋
 
-- 🔭 Trabalho como Desenvolvedor Frontend
+- 🔭 Trabalho como Desenvolvedor Frontend Senior.
 - 🌱 Graduado no curso de Análise e Desenvolvimento de Sistemas (2020-2022).
 - 👯 Contate-me no LinkedIn: https://www.linkedin.com/in/vitor-rafael-leite-27964316a
 
